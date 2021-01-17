@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package>
+  <name>interactive_marker_controller</name>
+  <version>0.11.0</version>
+  <description>An example gui to use the planner</description>
+
+  <maintainer email="rexjj7@gmail.com">Rex Jomy Joseph</maintainer>
+
+  <license>BSD</license>
+
+  <author >Rex Jomy Joseph</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>interactive_markers</build_depend>
+  <build_depend>visualization_msgs</build_depend>
+  <build_depend>pointcloud_ros_utilities</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>pcl_conversions</build_depend>
+  <build_depend>pcl_msgs</build_depend>
+  <build_depend>pcl_ros</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>pointcloud_ros_utilities</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>interactive_markers</run_depend>
+  <run_depend>visualization_msgs</run_depend>
+  <run_depend>pointcloud_ros_utilities</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>pcl_conversions</run_depend>
+  <run_depend>pcl_msgs</run_depend>
+  <run_depend>pcl_ros</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>pointcloud_ros_utilities</run_depend>
+</package>
